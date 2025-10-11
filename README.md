@@ -20,10 +20,5 @@ A user-friendly web application that helps people report and find lost items qui
 * **Authentication**: JWT (JSON Web Tokens) 
 
 
-## Usage
 
-* **Report a Lost Item**: Fill in the item name, description, location, and contact details.
-* **Report a Found Item**: Post found items to help others locate their belongings.
-* **Search Items**: Use the search bar or filters to find lost items near you.
-* **Claim an Item**: Contact the person who posted the item to retrieve it safely.
 
